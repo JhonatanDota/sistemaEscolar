@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 1.1em;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+}
+
+body{
+    background-color: 	#6e6e6e;
+}
+
+img{
+    width: 100%;
+    height: 100%;
+}
+
+.princ{
+    background-color:#262729;
+    width: 500px;
+    height: 400px;
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    transform: translate(-50%,-50%);
+    border: solid rgb(230, 92, 92) 10px;
+    text-align: center;
+    padding: 10px;
+    border-radius: 5%;
+}
+
+.noticias{
+    border: solid 10px rgba(39, 203, 224, 0.267);
+    border-radius: 0;
+    width: 500px;
+    height: 250px;
+    margin-left: 450px;
+    font-size: 0.8em;
+}
+
+.letreiro{
+    font-size: 1.5em;
+}
+
+#msg{
+    color: rgb(230, 92, 92);
+    font-size: 0.8em;
+    opacity: 0;
+}
+
+.letcor{
+    color: #77adf3;
+}
+
+label{
+    font-size: 1.3em;
+}
+
+.input{
+    color: black;
+    font-size: 0.7em;
+    margin-top: 6%;
+    margin-left: 5%;
+    width: 200px;
+    font-weight: normal;
+    
+}
+
+.letreiro2{
+    font-size: 1em;
+}
+
+.lik{
+    font-weight: normal;
+    font-size: 1em;
+}
+
+.aviso{
+    margin-top: 10px;
+}
+
+#aviso{
+    color: red;
+}
+
+#links{
+    margin-top: 10%;
+}
+
+.button{
+    margin-top: 10px;
+    color: black;
+    font-size: 0.7em;
+    margin-right: -230px;
+}
+
